@@ -4,6 +4,10 @@ I joined Alibaba and Ant Group in 2014. Currently, I lead the intelligent capaci
 
 my blog is https://suziewong.github.io/ 
 
+![qrcode_for_gh_ac8504d816c6_1280](https://user-images.githubusercontent.com/1535119/172010409-15875eab-9466-427e-b1fc-b4b3d1c2cb28.jpg)
+
+
+
 I work at [Ant Group](https://www.antgroup.com/en) as a Staff Software Engineer. For more information, please follow @monkeysuzie on Twitter.
 
 <!--
