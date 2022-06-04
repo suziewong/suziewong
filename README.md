@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi. I’m suziewong 🤗 👱 🧑‍💻 👓 💻 👨‍👩‍👧‍👦 ☕ 🍵 🍺 📚 🏝, and made in 🇨🇳.
+
+I work at [Ant Group](https://www.antgroup.com/en) as a Staff Software Engineer. For more information, please follow @monkeysuzie on Twitter.
+
 <!--
 **suziewong/suziewong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
