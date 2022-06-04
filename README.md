@@ -2,10 +2,7 @@ Hi. I’m suziewong(YangFei Zheng) 🤗 👱 🧑‍💻 👓 💻 👨‍👩�
 
 I joined Alibaba and Ant Group in 2014. Currently, I lead the intelligent capacity engineering team, performance engineering team, chaos engineering team and  data science team of the Ant Technology Risk Department. I also serve as the leader of the global stability team of Ant Group and the D11 team leader.  I am good at rich technical support for ultra-large-scale activities, cloud native, resource scheduling, cost optimization, elastic capacity, performance and full-link stress testing, high availability and other technical experience. 
 
-my [linkedin](https://www.linkedin.cn/incareer/in/%E6%B4%8B%E9%A3%9E-%E9%83%91-99272275) 
-
-I work at [Ant Group](https://www.antgroup.com/en) as a Staff Software Engineer. For more information, please follow @monkeysuzie on Twitter.
-
+I work at [Ant Group](https://www.antgroup.com/en) as a Staff Software Engineer. For more information, please add my my [linkedin](https://www.linkedin.cn/incareer/in/%E6%B4%8B%E9%A3%9E-%E9%83%91-99272275) or follow @monkeysuzie on Twitter.
 <!--
 **suziewong/suziewong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
