@@ -5,6 +5,9 @@ I joined Alibaba and Ant Group in 2014. Currently, I lead the intelligent capaci
 I work at [Ant Group](https://www.antgroup.com/en) as a Staff Software Engineer. For more information, please add my [LinkedIn](https://www.linkedin.cn/incareer/in/%E6%B4%8B%E9%A3%9E-%E9%83%91-99272275) , follow [@monkeysuzie](https://twitter.com/monkeysuzie) on Twitter,  [Medium B
 log](https://medium.com/@monkeysuzie) (english blog) and  [InfoQ Blog](https://www.infoq.cn/profile/81FF55C3111444/publish)(chinese blog) 
 
+and here is my wechat public accounts qrcode(You can subscribe it to get my latest information)
+![qrcode_for_gh_ac8504d816c6_258](https://user-images.githubusercontent.com/1535119/173273425-5573cce6-d18f-4510-997f-db12f429b6cf.jpg)
+
 <!--
 **suziewong/suziewong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
