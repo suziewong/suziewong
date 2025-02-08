@@ -24,3 +24,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -- add my [LinkedIn](https://www.linkedin.cn/incareer/in/%E6%B4%8B%E9%A3%9E-%E9%83%91-99272275) ,
 -->
+
+## 🛠 技术栈
+
+- 云原生 & 微服务架构
+- 性能优化 & 容量工程
+- 混沌工程 & 高可用性
+- 数据科学 & 机器学习
+
+## 🏆 成就
+
+- 蚂蚁集团全球稳定性团队负责人
+- D11技术团队负责人
+- 多次大规模活动技术支持经验
