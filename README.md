@@ -4,6 +4,11 @@ I joined Alibaba and Ant Group in 2014. Currently, I lead the intelligent capaci
 
 I work at [Ant Group](https://www.antgroup.com/en) as a Staff Software Engineer. For more information, please follow [@suziewong12](https://twitter.com/suziewong12) on Twitter,  [Medium Blog](https://medium.com/@monkeysuzie) (english blog) and  [InfoQ Blog](https://www.infoq.cn/profile/81FF55C3111444/publish)(chinese blog) 
 
+here's my academic work
+* KDD 2022 [A Meta Reinforcement Learning Approach for Predictive Autoscaling in the Cloud](https://arxiv.org/abs/2205.15795)
+* ACM SoCC 2022 [《DeepScaling: Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems》](https://dl.acm.org/doi/10.1145/3542929.3563469)
+
+
 and here is my wechat public accounts qrcode(You can subscribe it to get my latest information)
 ![qrcode_for_gh_ac8504d816c6_258](https://user-images.githubusercontent.com/1535119/173273425-5573cce6-d18f-4510-997f-db12f429b6cf.jpg)
 
